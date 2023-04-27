@@ -1,6 +1,7 @@
-- 👋 Hi,  @bomberman2099_age = 16 
+- 👋 Hi  
+@bomberman2099_age = 16 
 - 👀 interested_in =  "programing and edit videos" 
-- 🌱 currently_learning "python javaScrpit csharp"
+- 🌱 currently_learning "python, javaScrpit, csharp"
 - 💞️ looking_to_collaborate =  False
 - 📫 reach me in ososgol@gmail.com
 
