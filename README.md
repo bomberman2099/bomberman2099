@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on django and django rest<br>👯 I’m looking to collaborate on web applications projects<br>🌱 I’m currently learning: [ HTML, CSS, Bootstrap, PHP,<br>JavaScript, RegEx ]<br>💬 Ask me about [python, django]<br>⚡ Fun fact i start programming at 16
+🔭 I’m currently working on django and django rest<br>👯 I’m looking to collaborate on web applications projects<br>🌱 I’m currently learning: [ HTML, CSS, Bootstrap, PHP,<br>JavaScript, RegEx ]<br>💬 Ask me about [python, django]<br>
 
 
 ## 🌐 Socials:
