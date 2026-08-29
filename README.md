@@ -3,100 +3,84 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AmirAliSheibani.AmirAliSheibani" />
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=800&height=70&duration=3200&lines=AmirAli+Sheibani;+Backend+Developer;+Django+%2F+Python;+Building+real+web+systems" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=34&center=true&vCenter=true&width=800&height=70&duration=3200&lines=AmirAli+Sheibani;+Backend+Developer;+Django+%2F+Python;+Building+real+web+systems" />
   </h1>
 
 </div>
 
 ---
 
-## What I work on
-
-- Django and Django REST Framework
-- backend architecture and API design
-- authentication, permissions, and role-based access
-- MySQL and database design
-- Docker, Linux, and deployment workflow
-- JavaScript, AJAX, HTML, CSS, Bootstrap
-- security-aware development and access control
-
----
-
-## Projects worth checking
-
-**Octina**  
-Attendance, HR, shift, payroll, GPS verification, warnings, vacations, and Excel reporting.
-
-**WaIT**  
-Queue management backend with token-based public access, SMS flow, visitor handling, and rating logic.
-
-**Multi-Brand Service Website**  
-A configuration-driven Django system for generating branded service websites from one codebase.
-
----
-
-## Tech stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,docker,linux,git,github" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nginx,bash,redis" />
+<strong>Backend</strong> <br /> <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+
+<br />
+
+<strong>Databases & Infrastructure</strong> <br /> <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker,linux,nginx,bash" />
+
+<br />
+
+<strong>Frontend & Tools</strong> <br /> <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,git,github" />
 
 </div>
 
 ---
 
-## Extra interests
+## ⚙️ What I Work On
 
-Outside of web development, I like writing Linux scripts, working with networking tools, and exploring security and penetration testing concepts.
-
-I also try to bring security thinking into my projects where it makes sense, especially around access control, validation, and data handling.
-
----
-
-## Focus right now
-
-- stronger Django architecture
-- cleaner project structure
-- more production-ready deployments
-- better security habits in real projects
-- deeper Linux and networking workflow
+* Backend architecture and API design with Django / DRF
+* Authentication, permissions, and access control
+* Database design and performance
+* Docker-based deployment on Linux
+* Security-aware development
 
 ---
 
-## GitHub stats
+## 🚀 Projects
+
+* **Octina** — HR platform for attendance, shifts, payroll, GPS verification, leave, warnings, and reporting.
+* **WaIT** — Queue management backend with token-based access, SMS flows, visitor handling, and ratings.
+* **Multi-Brand Service Platform** — Configuration-driven Django system for building multiple branded service websites from one codebase.
+
+---
+
+## 🎯 Currently Focused On
+
+* Better Django architecture and project structure
+* More reliable production deployments
+* Stronger security practices
+* Deeper Linux and networking knowledge
+
+*Outside of web development: Linux scripting, networking tools, and security research.*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAliSheibani&theme=react&border_radius=10" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AmirAliSheibani&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
-  <br />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliSheibani&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top languages" />
+  <img src="https://streak-stats.demolab.com/?user=AmirAliSheibani&theme=react&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Pinned repositories
-
-If you want to judge the actual work, start from the pinned repos.  
-That is where the architecture, code quality, and project scope show up.
-
----
-
-## Contact
+## 📫 Contact
 
 <div align="center">
 
   <a href="mailto:amiralisheibani01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/AmirAliSheibani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/amirali-sheibani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/amiralish2006">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
 </div>
